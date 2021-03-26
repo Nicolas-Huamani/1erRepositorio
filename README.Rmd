@@ -1,0 +1,11 @@
+---
+title: "MI PRIMER DOCUMENTO"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#TITULO 1 
+
+MI PRIMER ENTORNO GITHUB
